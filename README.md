@@ -1,7 +1,7 @@
 # WeRateDog Twitter Analysis
-In this project, we will be wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+In this project, we wrangled WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
-Real-world data rarely comes clean. Using Python and its libraries, we gathered data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. After that, we showcase them through analyses and visualizations using Python (and its libraries) and SQL.
+Real-world data rarely come clean. Using Python and its libraries, we gathered data from a variety of sources and in a variety of formats, assessed its quality and tidiness, then cleaned it. After that, we showcased them through analyses and visualizations using Python (and its libraries) and SQL.
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
